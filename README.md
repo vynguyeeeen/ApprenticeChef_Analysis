@@ -4,7 +4,7 @@ Completed on Tues Jan 28, 2021
 Author: Phuong-Vy Nguyen 
 
 ### Overview of Analysis:
-Apprentice Chef (AC) is offers a wide selection of daily-prepapred meals to support the busy lifestyle of working professionals directly to their door. AC is looking to have a better understand of their revenue and how to best optimize this. An analysis was conducted in three parts:
+Apprentice Chef (AC) is offers a wide selection of daily-prepared meals to support the busy lifestyle of working professionals directly to their door. AC is looking to have a better understand of their revenue and how to best optimize this. An analysis was conducted in three parts:
   
     PART 1: 	Regression Model to analyze and build a machine learning model to predict 
     		revenue over the first year of each customer's life cycle 
