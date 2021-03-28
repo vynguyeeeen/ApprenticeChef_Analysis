@@ -1,5 +1,4 @@
-# Apprentice Chef Revenue Analysis
-*Supervised Learning*
+# Apprentice Chef Revenue Analysis | Supervised Learning
 
 Completed on Tues Jan 28, 2021 
 
